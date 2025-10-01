@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <!-- Meta-informacije o projektu -->
+    <meta title="Cannon Simulation" package="com.sample.cannonsimulation" version="1.0.0" company="Company Name" />
+
+    <!-- Glavna aplikacija -->
+    <app main="Main" path="Export" file="CannonSimulation">
+        <title>Cannon Simulation</title>
+        <window>
+            <width>1600</width> 
+            <height>900</height> 
+            <resizable>false</resizable> 
+            <fps>60</fps> 
+            <background>#FFFFFF</background> 
+        </window>
+    </app>
+
+    <source path="Source" />
+
+
+    <haxelib name="lime" />
+    <haxelib name="openfl" />
+
+    <assets path="Assets" rename="assets" />
+</project>
