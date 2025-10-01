@@ -64,8 +64,6 @@ The simulation models projectile motion using:
 - Optional comparison mode: with drag (red) vs without drag (blue)
 
 ## 🧭 Roadmap / Ideas
-- Target practice mode (hit a moving/static target)
-- Toggle gravity/wind profiles
-- Graph plotting (position/velocity vs time)
+- Target practice mode (hit a moving target)
 - UI polishing and nicer HUD
 
